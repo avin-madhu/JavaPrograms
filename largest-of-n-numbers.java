@@ -1,3 +1,5 @@
+/*this java program takes a number of values from the user in an array and give the largest value entered by th user*/
+
 import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
