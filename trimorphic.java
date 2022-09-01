@@ -1,3 +1,9 @@
+/*TRIMORPHIC NUMBER CHECKING PROGRAM
+ A trimorphic number is a number whose cube ends with that number itself
+ eg: 4 ,cube of 4 is 64 which ends in 4
+ 
+ code constrain: entry for single digit only*/
+
 import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
