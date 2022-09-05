@@ -1,2 +1,4 @@
 # java-prgms
-general java programs
+
+includes general java programs for programming practice
+codedBy: @avin-madhu
