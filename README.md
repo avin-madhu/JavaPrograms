@@ -1,4 +1,4 @@
-# java-prgms
+# java-prgms S3 KTU
 
-includes general java programs for programming practice,    
-codedBy: @avin-madhu
+
+
