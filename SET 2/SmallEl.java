@@ -15,13 +15,22 @@ public class SmallEl {
         }
         for(int i=0;i<n;i++)
         {
-           for(int j=0;j<n-i;j++)
+           for(int j=0;j<n-1-i;j++)
            {
-             
+             if(arr[i]<arr[j+1])
+             {
+                int temp;
+                temp=arr[j];
+                arr[j]=arr[i];
+                arr[i]=temp;
+             }
            }
         }
-       
-        System.out.print("The smallest Element is: "+ small);
+        for(int i=0;i<n;i++)
+        {
+            System.out.print(arr[i]+" ");
+        }
+        System.out.print("The smallest Element is: "+ arr[n-1]);
 
     }
 }
