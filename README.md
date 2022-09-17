@@ -1,7 +1,7 @@
 # java S3 LAB-KTU  2022
 
 ## SET 1 QUESTIONS
-### - Simple Java Programs
+### -> Simple Java Programs
 
 * Hello World
 * Add two numbers
@@ -12,7 +12,7 @@
 * Factorial 
 
 ## SET 2 QUESTIONS
-### - Familirization with Arrays and Strings
+### -> Familirization with Arrays and Strings
 
 * Sum of elements in an array
 * Smallest element in an array
