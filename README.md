@@ -3,7 +3,7 @@
 ## SET 1 QUESTIONS
 ### -> Simple Java Programs
 
-* Hello World
+* [Hello World](https://github.com/avin-madhu/JavaPrograms/blob/main/SET%201/HelloWorld.java)
 * Add two numbers
 * Odd or even
 * Prime number
