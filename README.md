@@ -1,4 +1,4 @@
-# java S3 LAB-KTU  2022
+# Java S3 LAB-KTU  2022
 
 ## SET 1 QUESTIONS
 ### -> Simple Java Programs
