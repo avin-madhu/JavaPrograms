@@ -3,9 +3,9 @@
 ## SET 1 QUESTIONS
 ### -> Simple Java Programs
 
-* [Hello World](https://github.com/avin-madhu/JavaPrograms/blob/main/SET%201/HelloWorld.java)
+* [Hello World](SET%201/HelloWorld.java)
 * Add two numbers
-* Odd or even
+* [Odd or even](https://github.com/avin-madhu/JavaPrograms/blob/main/SET%201/OddorEven.java)
 * Prime number
 * Fibonacci series
 * Factor of a number
