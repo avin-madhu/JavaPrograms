@@ -5,7 +5,7 @@
 
 * [Hello World](SET%201/HelloWorld.java)
 * Add two numbers
-* [Odd or even](https://github.com/avin-madhu/JavaPrograms/blob/main/SET%201/OddorEven.java)
+* [Odd or even](SET%201/OddorEven.java)
 * Prime number
 * Fibonacci series
 * Factor of a number
