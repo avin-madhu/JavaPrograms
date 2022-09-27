@@ -4,7 +4,7 @@
 ### -> Simple Java Programs
 
 * [Hello World](SET%201/HelloWorld.java)
-* Add two numbers
+* [Add two numbers](SET%201/addnum.java)
 * [Odd or even](SET%201/OddorEven.java)
 * Prime number
 * Fibonacci series
