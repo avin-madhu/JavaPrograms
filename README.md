@@ -6,7 +6,7 @@
 * [Hello World](SET%201/HelloWorld.java)
 * [Add two numbers](SET%201/addnum.java)
 * [Odd or even](SET%201/OddorEven.java)
-* Prime number
+* [Prime number](SET%201/primeNum.java)
 * Fibonacci series
 * Factor of a number
 * Factorial 
