@@ -26,7 +26,7 @@ public class SecondLarEl {
             }
         }
         
-        System.out.print("The seconf largest nuber is: "+arr[n-2]);
+        System.out.print("The second largest number is: "+arr[n-2]);
         
         
     }
