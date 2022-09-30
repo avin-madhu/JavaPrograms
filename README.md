@@ -8,7 +8,7 @@
 * [Odd or even](SET%201/OddorEven.java)
 * [Prime number](SET%201/primeNum.java)
 * [Fibonacci series](SET%201/fibonacci.java)
-* [Factor of a number]()
+* [Factor of a number](SET%201/Factors.java)
 * [Factorial](SET%201/factorial.java)
 
 ## SET 2 QUESTIONS
