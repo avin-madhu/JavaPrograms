@@ -9,7 +9,7 @@
 * [Prime number](SET%201/primeNum.java)
 * [Fibonacci series](SET%201/fibonacci.java)
 * [Factor of a number]()
-* [Factorial] ()
+* [Factorial](SET%201/factorial.java)
 
 ## SET 2 QUESTIONS
 ### -> Familirization with Arrays and Strings
