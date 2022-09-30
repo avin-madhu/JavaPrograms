@@ -7,9 +7,9 @@
 * [Add two numbers](SET%201/addnum.java)
 * [Odd or even](SET%201/OddorEven.java)
 * [Prime number](SET%201/primeNum.java)
-* Fibonacci series
-* Factor of a number
-* Factorial 
+* [Fibonacci series](SET%201/fibonacci.java)
+* [Factor of a number]()
+* [Factorial] ()
 
 ## SET 2 QUESTIONS
 ### -> Familirization with Arrays and Strings
