@@ -7,6 +7,7 @@
 * [Add two numbers](SET%201/addnum.java)
 * [Odd or even](SET%201/OddorEven.java)
 * [Prime number](SET%201/primeNum.java)
+* [SumofNnum](SET%201/SumofNnum.java)
 * [Fibonacci series](SET%201/fibonacci.java)
 * [Factor of a number](SET%201/Factors.java)
 * [Factorial](SET%201/factorial.java)
