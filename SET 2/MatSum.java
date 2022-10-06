@@ -48,15 +48,5 @@ public class MatSum {
            System.out.print("\n");
         }
 
-
-
-
-
-
-        
-
-        
-
-
     }
 }
