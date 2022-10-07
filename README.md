@@ -25,5 +25,6 @@
 * Multiply two matrices
 * [Trace of a matrix](SET%202/Trace.java)
 * [Palindrome - string](SET%202/StringPalindrome.java)
-* Search a character in a string
+* [Search a character in a string](SET%202/SearchChar.class)
 * Replace a character in a string
+
