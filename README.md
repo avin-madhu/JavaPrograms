@@ -22,7 +22,7 @@
 * [largest element in an N x N matrix](SET%202/LargestMatEl.java)
 * [Add two matrices](SET%202/MatSum.java)
 * [Transpose of a matrix](SET%202/Transpose.java)
-* Multiply two matrices
+* [Multiply two matrices](SET%202/MatMultiply.java)
 * [Trace of a matrix](SET%202/Trace.java)
 * [Palindrome - string](SET%202/StringPalindrome.java)
 * [Search a character in a string](SET%202/SearchChar.class)
