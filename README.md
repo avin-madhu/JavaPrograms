@@ -1,7 +1,30 @@
 # Java S3 LAB-KTU  2022
 
-## SET 1 QUESTIONS
-### -> Simple Java Programs
+~ This repository is to Store my java Programs in the List of Experiments in Java lab of the academic year 2022 under KTU Syllabus.<br>
+~ Each programs in the repo is given as links to the respective code<br>
+~ ALgorithms of the programs are also provided in the respective sections
+
+## Contents
+
+* [SET 1 QUESTIONS](#set-1-questions)
+* [SET 2 QUESTIONS](#set-2-questions)
+* [SET 3 QUESTIONS](#set-3-questions)
+
+
+## ---SET 1 QUESTIONS---
+## -> Simple Java Programs
+ 
+ ### Program:
+* [Hello World](SET%201/HelloWorld.java)
+* [Add two numbers](SET%201/addnum.java)
+* [Odd or even](SET%201/OddorEven.java)
+* [Prime number](SET%201/primeNum.java)
+* [SumofNnum](SET%201/SumofNnum.java)
+* [Fibonacci series](SET%201/fibonacci.java)
+* [Factor of a number](SET%201/Factors.java)
+* [Factorial](SET%201/factorial.java)
+
+### Algorithm:
 
 * [Hello World](SET%201/HelloWorld.java)
 * [Add two numbers](SET%201/addnum.java)
@@ -12,7 +35,9 @@
 * [Factor of a number](SET%201/Factors.java)
 * [Factorial](SET%201/factorial.java)
 
-## SET 2 QUESTIONS
+
+
+## ---SET 2 QUESTIONS---
 ### -> Familirization with Arrays and Strings
 
 * [Sum of elements in an array](SET%202/ArraySum.java)
@@ -27,4 +52,11 @@
 * [Palindrome - string](SET%202/StringPalindrome.java)
 * [Search a character in a string](SET%202/SearchChar.class)
 * Replace a character in a string
+
+## ---SET 3 QUESTIONS---
+### -> Familiarize with concepts of classes, Objects, Methods, Method Overloading and Constructor overloading
+
+* Create a student class with details and display
+* find factorial and sum 
+* Class with functions to find freq of a character
 
