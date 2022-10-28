@@ -2,13 +2,18 @@
 
 ~ This repository is to Store my java Programs in the List of Experiments in Java lab of the academic year 2022 under KTU Syllabus.<br>
 ~ Each programs in the repo is given as links to the respective code<br>
-~ ALgorithms of the programs are also provided in the respective sections
+~ ALgorithms of the programs are also provided in the respective sections<br>
+~ The list of lab experiments to be completed in an academic semester - [click](ExpList.jpg)
+
 
 ## Contents
+
 
 * [SET 1 QUESTIONS](#set-1-questions)
 * [SET 2 QUESTIONS](#set-2-questions)
 * [SET 3 QUESTIONS](#set-3-questions)
+
+
 
 
 ## ---SET 1 QUESTIONS---
@@ -51,12 +56,12 @@
 * [Trace of a matrix](SET%202/Trace.java)
 * [Palindrome - string](SET%202/StringPalindrome.java)
 * [Search a character in a string](SET%202/SearchChar.class)
-* Replace a character in a string
+* [Replace a character in a string](SET%202/ReplaceChar.java)
 
 ## ---SET 3 QUESTIONS---
 ### -> Familiarize with concepts of classes, Objects, Methods, Method Overloading and Constructor overloading
 
-* Create a student class with details and display
-* find factorial and sum 
+* [Create a student class with details and display](SET%203/Student.java)
+* Find factorial and sum 
 * Class with functions to find freq of a character
 
