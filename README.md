@@ -17,7 +17,7 @@
 
 
 ## ---SET 1 QUESTIONS---
-## -> Simple Java Programs
+## -> Simple Java Programs 
  
  ### Program:
 * [Hello World](SET%201/HelloWorld.java)
@@ -29,7 +29,7 @@
 * [Factor of a number](SET%201/Factors.java)
 * [Factorial](SET%201/factorial.java)
 
-### Algorithm:
+<!-- ### Algorithm:
 
 * [Hello World](SET%201/HelloWorld.java)
 * [Add two numbers](SET%201/addnum.java)
@@ -38,12 +38,13 @@
 * [SumofNnum](SET%201/SumofNnum.java)
 * [Fibonacci series](SET%201/fibonacci.java)
 * [Factor of a number](SET%201/Factors.java)
-* [Factorial](SET%201/factorial.java)
+* [Factorial](SET%201/factorial.java) -->
 
 
 
 ## ---SET 2 QUESTIONS---
 ### -> Familirization with Arrays and Strings
+
 
 * [Sum of elements in an array](SET%202/ArraySum.java)
 * [Smallest element in an array](SET%202/SmallEl.java)
@@ -62,6 +63,7 @@
 ### -> Familiarize with concepts of classes, Objects, Methods, Method Overloading and Constructor overloading
 
 * [Create a student class with details and display](SET%203/Student.java)
-* Find factorial and sum 
+* Find factorial and sum by adding a function in the main()
 * Class with functions to find freq of a character
+* [find perimeter of shapes using constructor Overloading](SET%203/constructOver.java)
 
