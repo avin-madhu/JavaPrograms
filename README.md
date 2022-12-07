@@ -3,8 +3,9 @@
 ~ This repository is to Store my java Programs in the List of Experiments in Java lab of the academic year 2022 under KTU Syllabus.<br>
 ~ Each programs in the repo is given as links to the respective code<br>
 ~ ALgorithms of the programs are also provided in the respective sections<br>
-~ The list of lab experiments to be completed in an academic semester - [click](ExpList.md)
 
+
+##  [--> Experiment List](ExpList.md)
 
 ## Contents
 
@@ -63,7 +64,14 @@
 ### -> Familiarize with concepts of classes, Objects, Methods, Method Overloading and Constructor overloading
 
 * [Create a student class with details and display](SET%203/Student.java)
-* [Find Area of different shapes using method Overloading](SET%203/)
+* [Find Area of different shapes using method Overloading](SET%203/MethodOverloading.java)
 * [Find perimeter of shapes using constructor Overloading](SET%203/constructOver.java)
-* [Read and display details of Five Employees](SET%203)
+* [Read and display details of Five Employees](SET%203/EmpClass.java)
+
+## ---SET 4 QUESTIONS---
+### -> To implement the concepts of constructors, inheritance, method overloading & overriding, polymorphism
+
+* [Employee and Manager](SET%204/Employee.java)
+* [Abstract Class](SET%204/abstractShape.java)
+* [Employee and Engineer Class](SET%204/EmployeeEng.java)
 

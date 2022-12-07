@@ -9,7 +9,7 @@
 5. Program to find sum of first n natural numbers
 6. Program to find factor of a given number
 7. Program to print fibonacci series upto n
-8 Program to find factorial of a given number
+8. Program to find factorial of a given number
 
 ## Set2
 # Familiarization of java Arrays and Strings
@@ -34,8 +34,10 @@ read and display the details.
 
 2. Write a Java program to calculate the area of different shapes namely circle, rectangle, and triangle 
 using the concept of method overloading.
+
 3. Write a Java program to calculate the perimeter of different shapes namely circle and rectangle using 
 the concept of constructor overloading.
+
 4. Java program to create a class employee with details such as empno, name and phone number. Read 
 details of at least 5employees and print.
 
