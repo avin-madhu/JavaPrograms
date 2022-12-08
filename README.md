@@ -82,3 +82,5 @@
 
 ## ---SET 6 QUESTIONS---
 ### -> Multithreading
+
+* [Print odd and even Numbers under 100 using threads]()
