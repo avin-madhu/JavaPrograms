@@ -75,3 +75,10 @@
 * [Abstract Class](SET%204/abstractShape.java)
 * [Employee and Engineer Class](SET%204/EmployeeEng.java)
 
+## ---SET 5 QUESTIONS---
+### -> Exception handing 
+
+* [Exception handling]()
+
+## ---SET 6 QUESTIONS---
+### -> Multithreading
