@@ -78,7 +78,7 @@
 ## ---SET 5 QUESTIONS---
 ### -> Exception handing 
 
-* [Exception handling]()
+* [Exception handling](SET%205/exceptions.java)
 
 ## ---SET 6 QUESTIONS---
 ### -> Multithreading
