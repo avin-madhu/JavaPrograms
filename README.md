@@ -83,10 +83,10 @@
 ## ---SET 6 QUESTIONS---
 ### -> Multithreading
 
-* [Print odd and even Numbers under 100 using threads]()
+* [Print odd and even Numbers under 100 using threads](SET%206/oddEvenThread.java)
 
 ## ---SET 7 QUESTIONS---
 ### -> Operations on Files
 
-* [Display file contents with margin number]()
+* [Display file contents with margin number](SET%207/FileWithLineNum.java)
 * [Read a line of integers and then display with there sum using string tokenizer](SET%207/tokenizer.java)
