@@ -60,7 +60,7 @@
 * [Multiply two matrices](SET%202/MatMultiply.java)
 * [Trace of a matrix](SET%202/Trace.java)
 * [Palindrome - string](SET%202/StringPalindrome.java)
-* [Search a character in a string](SET%202/SearchChar.class)
+* [Search a character in a string](SET%202/SearchChar.java)
 * [Replace a character in a string](SET%202/ReplaceChar.java)
 
 ## ---SET 3 QUESTIONS---
