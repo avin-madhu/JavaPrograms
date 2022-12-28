@@ -17,7 +17,7 @@
 * [SET 5 QUESTIONS](#set-5-questions)
 * [SET 6 QUESTIONS](#set-6-questions)
 * [SET 7 QUESTIONS](#set-7-questions)
-
+* [Java Assignment -2](#Assignment-2)
 
 
 ## ---SET 1 QUESTIONS---
