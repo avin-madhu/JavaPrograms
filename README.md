@@ -97,5 +97,5 @@
 ## ---Assignment 2---
 ###-> Java Swings
 
-*[yes and no buttons](yesAndNo.java)
-*[prev and next number](prevAndNext.java)
+*[yes and no buttons](questionOne.java)
+*[prev and next number](questionTwo.java)
