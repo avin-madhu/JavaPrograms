@@ -95,7 +95,7 @@
 * [Read a line of integers and then display with there sum using string tokenizer](SET%207/tokenizer.java)
 
 ## ---Assignment 2---
-###-> Java Swings
+### -> Java Swings
 
-*[yes and no buttons](questionOne.java)
-*[prev and next number](questionTwo.java)
+* [yes and no buttons](questionOne.java)
+* [prev and next number](questionTwo.java)
