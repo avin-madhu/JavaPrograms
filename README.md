@@ -93,3 +93,9 @@
 
 * [Display file contents with margin number](SET%207/FileWithLineNum.java)
 * [Read a line of integers and then display with there sum using string tokenizer](SET%207/tokenizer.java)
+
+## ---Assignment 2---
+###-> Java Swings
+
+*[yes and no buttons](yesAndNo.java)
+*[prev and next number](prevAndNext.java)
