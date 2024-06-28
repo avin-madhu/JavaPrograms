@@ -47,7 +47,7 @@
 
 
 ## ---SET 2 QUESTIONS---
-### -> Familirization with Arrays and Strings
+-> Familirization with Arrays and Strings
 
 
 * [Sum of elements in an array](SET%202/ArraySum.java)
@@ -64,7 +64,7 @@
 * [Replace a character in a string](SET%202/ReplaceChar.java)
 
 ## ---SET 3 QUESTIONS---
-### -> Familiarize with concepts of classes, Objects, Methods, Method Overloading and Constructor overloading
+-> Familiarize with concepts of classes, Objects, Methods, Method Overloading and Constructor overloading
 
 * [Create a student class with details and display](SET%203/Student.java)
 * [Find Area of different shapes using method Overloading](SET%203/MethodOverloading.java)
@@ -72,30 +72,30 @@
 * [Read and display details of Five Employees](SET%203/EmpClass.java)
 
 ## ---SET 4 QUESTIONS---
-### -> To implement the concepts of constructors, inheritance, method overloading & overriding, polymorphism
+-> To implement the concepts of constructors, inheritance, method overloading & overriding, polymorphism
 
 * [Employee and Manager](SET%204/Employee.java)
 * [Abstract Class](SET%204/abstractShape.java)
 * [Employee and Engineer Class](SET%204/EmployeeEng.java)
 
 ## ---SET 5 QUESTIONS---
-### -> Exception handing 
+-> Exception handing 
 
 * [Exception handling](SET%205/exceptions.java)
 
 ## ---SET 6 QUESTIONS---
-### -> Multithreading
+-> Multithreading
 
 * [Print odd and even Numbers under 100 using threads](SET%206/oddEvenThread.java)
 
 ## ---SET 7 QUESTIONS---
-### -> Operations on Files
+-> Operations on Files
 
 * [Display file contents with margin number](SET%207/FileWithLineNum.java)
 * [Read a line of integers and then display with there sum using string tokenizer](SET%207/tokenizer.java)
 
 ## ---Assignment 2---
-### -> Java Swings
+-> Java Swings
 
 * [yes and no buttons](questionOne.java)
 * [prev and next number](questionTwo.java)
