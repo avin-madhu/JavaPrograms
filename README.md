@@ -94,6 +94,10 @@
 * [Display file contents with margin number](SET%207/FileWithLineNum.java)
 * [Read a line of integers and then display with there sum using string tokenizer](SET%207/tokenizer.java)
 
+## --SET 8 QUESTIONS ---
+-> OUTSIDE SYLLABUS ( Random DSA Practice questions )
+*[Get the frequency of characters in a string](SET%208/frequency_in_string.java)
+
 ## ---Assignment 2---
 -> Java Swings
 
