@@ -19,7 +19,6 @@ public  class frequency_in_string{
             System.out.print(key + " has a frequency of ");
             System.out.println(map.get(key));
         }
-        System.out.println(map);
         
     }
 }

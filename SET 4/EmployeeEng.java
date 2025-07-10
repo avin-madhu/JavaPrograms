@@ -10,7 +10,6 @@ class Employee
    System.out.print("The salary of the employee is 10,000");
   
   }
-
 }
 
 class Engineer extends Employee
