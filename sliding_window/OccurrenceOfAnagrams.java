@@ -1,4 +1,3 @@
-package sliding_window;
 import java.util.HashMap;
 
 public class OccurrenceOfAnagrams {
