@@ -87,3 +87,14 @@ each line by handling all file related exceptions.
 
 2. Write a Java program that reads a line of integers from a file, and then displays each integer, and the 
 sum of all the integers (Use String Tokenizer class of java.util).
+
+## PRACTICE QUESTIONS (INTERVIEWS)
+
+### SLIDING WINDOW
+1. [find the first negative number in each window of size k](sliding_window/firstNegativeNumberInWindowOfSizeK.java)
+2. [Get the number anagrams of string2 in string1](sliding_window/OccurrenceOfAnagrams.java)
+3. [Get the anagrams itself of string2 in string1 ](sliding_window/GetTheAnagrams.java)
+4. [shortest subarray with Sum equal to target](sliding_window/shortestSubarraySum.java)
+5. [Minimum window containing all the characters in the target string](sliding_window/minWindowString.java)
+6. [find the count of subarray with given min and max elements](sliding_window/countSubarrayWithFixedBounds.java
+)
