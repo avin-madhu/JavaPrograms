@@ -15,10 +15,10 @@ public class _1_Solution {
         Arrays.sort(s_array);
 
         if(String.valueOf(t_array).compareTo(String.valueOf(s_array)) == 0){
-            System.out.println(true);
+            System.out.println("TRUE");
         }
         else{
-            System.out.println(false);
+            System.out.println("FALSE");
         }
 
     }
